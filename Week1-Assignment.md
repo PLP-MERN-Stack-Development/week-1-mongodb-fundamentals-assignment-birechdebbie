@@ -36,7 +36,7 @@ Learn the fundamentals of MongoDB, including installation, creating collections,
 
 ### Task 4: Aggregation Pipeline
 - Create an aggregation pipeline to calculate the average price of books by genre
-- Create an aggregation pipeline to find the author with the most books in the collection
+-  Create an aggregation pipeline to calculate the average price of books by genre
 - Implement a pipeline that groups books by publication decade and counts them
 
 ### Task 5: Indexing
